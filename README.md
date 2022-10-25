@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Do something
-```
+```javascript
 while (i < you) i++; 
 ```
 
